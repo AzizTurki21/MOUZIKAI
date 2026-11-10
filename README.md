@@ -94,14 +94,6 @@ Camera capture and hand tracking run on a background thread so inference does no
 
 Frame rate, recognition accuracy and command latency have not yet been benchmarked. They should be measured with a labelled test set across different users, lighting conditions, hand orientations and camera distances before making reliability claims.
 
-## Ideas for further work
-
-- Collect a labelled landmark dataset and compare the geometric rules with a trained classifier.
-- Add per-user calibration and editable gesture mappings.
-- Measure precision, recall, false activations, frame rate and response latency.
-- Add optional MQTT output for ESP32 lighting control.
-- Explore deployment on a Raspberry Pi.
-
 ## Privacy
 
 Camera frames are processed locally. The application does not intentionally save or upload camera footage. Music remains on the user's computer.
