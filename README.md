@@ -97,3 +97,5 @@ Camera frames are processed locally. The application does not intentionally save
 - [MediaPipe Hand Landmarker](https://developers.google.com/edge/mediapipe/solutions/vision/hand_landmarker)
 - [OpenCV](https://opencv.org/)
 - [Pygame](https://www.pygame.org/)
+
+- © All rights reserved to MAT
