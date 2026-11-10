@@ -78,6 +78,7 @@ GestureStage/
 ├── requirements.txt
 ├── README.md
 ├── models/
+├── screenshots/
 ├── assets/music/
 └── src/
     ├── config.py
