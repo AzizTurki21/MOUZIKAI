@@ -19,6 +19,18 @@ The application uses Google's pretrained MediaPipe Hand Landmarker task. The mod
 
 The hand model is pretrained; this project does not train or fine-tune it. The gesture classifier is a set of hand-written geometric rules, not a trained neural network. The current rules are a starting point and can be affected by hand rotation, camera angle, lighting and occlusion.
 
+## Screenshots
+
+### Live Hand Tracking
+Real-time hand tracking with MediaPipe, including gesture recognition and visual hand landmarks.
+
+![MOUZIKAI Live Hand Tracking](screenshots/hand_gesture_detection.png)
+
+### Dashboard Interface
+The MOUZIKAI dashboard in its idle state, displaying the music library, gesture controls, and playback interface.
+
+![MOUZIKAI Dashboard](screenshots/dashboard.png)
+
 ## Stack
 
 - Python 3.11
