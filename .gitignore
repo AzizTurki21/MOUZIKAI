@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local music
+assets/music/*
+!assets/music/.gitkeep
+
+# Download separately
+models/hand_landmarker.task
+
+# Local settings
+.vscode/
+.env
+.DS_Store
+Thumbs.db
