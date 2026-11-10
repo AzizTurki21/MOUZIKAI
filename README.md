@@ -7,6 +7,7 @@ GestureStage is a webcam-based music controller. It uses hand landmarks to recog
 | Gesture | Action |
 |---|---|
 | Index finger | Play or resume the selected track |
+| Palm | Next track |
 | Fist | Pause playback |
 | Peace sign | Increase volume |
 | Thumb up | Decrease volume |
